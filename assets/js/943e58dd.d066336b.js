@@ -1,0 +1,1 @@
+(self.webpackChunkvidhya_classes_home=self.webpackChunkvidhya_classes_home||[]).push([[400],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/home/blog/welcome"},{"title":"Hello","permalink":"/home/blog/hello-world"},{"title":"Hola","permalink":"/home/blog/hola"}]}')}}]);

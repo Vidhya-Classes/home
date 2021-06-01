@@ -1,0 +1,1 @@
+(self.webpackChunkvidhya_classes_home=self.webpackChunkvidhya_classes_home||[]).push([[138],{2818:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/home/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/home/blog/tags/hola"}')}}]);

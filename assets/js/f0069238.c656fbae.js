@@ -1,0 +1,1 @@
+(self.webpackChunkvidhya_classes_home=self.webpackChunkvidhya_classes_home||[]).push([[789],{5170:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/home/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/home/blog/tags/docusaurus"}')}}]);

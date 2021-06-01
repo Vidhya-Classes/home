@@ -1,0 +1,1 @@
+(self.webpackChunkvidhya_classes_home=self.webpackChunkvidhya_classes_home||[]).push([[745],{66:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/home/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/home/blog/tags/facebook"}')}}]);
